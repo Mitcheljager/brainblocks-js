@@ -1,6 +1,6 @@
 # Brainblocks-js
 
-Integrate Brainblocks (Current version v1.0.3) into Rails Asset Pipeline.
+Integrate Brainblocks (Current version v1.0.7) into Rails Asset Pipeline.
 
 ## Installation
 
